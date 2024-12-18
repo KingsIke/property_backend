@@ -35,7 +35,7 @@ GET http://localhost:5000/api/properties/1
 1. Clone the repository:
 
    ```javascript
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/KingsIke/property_backend
    cd property-backend
    ```
 

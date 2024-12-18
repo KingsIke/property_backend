@@ -52,7 +52,7 @@ npm start
 # Folder Structure
 
 ```javascript
-Copy code
+
 property-backend/
 ├── controllers/           # Business logic for API routes
 ├── models/                # Data models (e.g., property data)
